@@ -1,0 +1,1 @@
+d=lambda d:d in'd=lmba: in\\"\''
