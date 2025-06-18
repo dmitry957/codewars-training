@@ -11,6 +11,10 @@ str = "codewars", a = 1, b = 5 --> "cawedors"
 str = "cODEWArs", a = 1, b = 5 --> "cAWEDOrs"
 ```
 
+**Explanation:**
+- For `"codewars"` with indices 1-5: reverse substring `"odewa"` → `"awe do"` → result: `"cawedors"`
+- For `"cODEWArs"` with indices 1-5: reverse substring `"ODEWA"` → `"AWEDO"` → result: `"cAWEDOrs"`
+
 ## Constraints
 
 Input will be lowercase and uppercase letters only.
