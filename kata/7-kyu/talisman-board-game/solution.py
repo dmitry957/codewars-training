@@ -1,4 +1,5 @@
-p = sum(player)
+def get_required(player, enemy):
+    p = sum(player)
     e = sum(enemy)
     if p == e: return 'Random'
     elif p >= e + 6: return 'Auto-win'
