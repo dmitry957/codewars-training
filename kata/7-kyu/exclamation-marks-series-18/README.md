@@ -2,6 +2,8 @@
 
 [View on Codewars](https://www.codewars.com/kata/57fb4b289610ce39f70000de/python)
 
+## Description
+
 You are playing a simple slot machine that only contains exclamation marks and question marks. Every time the slot machine is started, a string of length 5 is obtained. If you're lucky enough to get a special permutation, you'll win the bonus. Given a string `s`, return the highest bonus.
 
 ## Bonus List
@@ -37,6 +39,6 @@ slot("!!?!?") == 100
 slot("!?!?!") == 0
 ```
 
----
+## Tags
 
 #Fundamentals
