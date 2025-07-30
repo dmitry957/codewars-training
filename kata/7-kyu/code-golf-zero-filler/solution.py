@@ -1,0 +1,1 @@
+f=lambda n,l:f'{n:0<{l}s}'if type(n) is str else f'{int(n):0={l}d}'
