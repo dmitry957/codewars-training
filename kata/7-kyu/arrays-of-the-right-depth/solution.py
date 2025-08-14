@@ -13,7 +13,7 @@ def right_depth(arr,constraints):
             return depth
         return None
     
-    depth_counts = Counter()
+    depth_counts = )
 
     for item in arr:
         d = get_depth(item)

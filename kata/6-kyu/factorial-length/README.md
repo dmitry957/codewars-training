@@ -1,0 +1,3 @@
+Factorial length
+
+https://www.codewars.com/kata/59f34ec5a01431ab7600005a/python
