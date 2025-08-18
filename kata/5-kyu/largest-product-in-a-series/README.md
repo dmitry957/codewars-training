@@ -1,0 +1,3 @@
+Largest product in a series
+
+https://www.codewars.com/kata/529872bdd0f550a06b00026e/python

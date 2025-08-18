@@ -1,0 +1,3 @@
+Excel sheet column numbers
+
+https://www.codewars.com/kata/55ee3ebff71e82a30000006a/python
