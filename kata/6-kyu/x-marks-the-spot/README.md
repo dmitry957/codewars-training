@@ -1,0 +1,3 @@
+X marks the spot!
+
+https://www.codewars.com/kata/55cc20eb943f1d8b11000045/python
