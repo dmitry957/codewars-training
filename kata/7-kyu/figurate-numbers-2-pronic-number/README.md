@@ -1,0 +1,3 @@
+Figurate Numbers #2 - Pronic Number
+
+https://www.codewars.com/kata/55b1e5c4cbe09e46b3000034/python

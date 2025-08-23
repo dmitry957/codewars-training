@@ -1,0 +1,3 @@
+Simple prime streaming
+
+https://www.codewars.com/kata/5a908da30025e995880000e3/python
