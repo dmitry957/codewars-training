@@ -1,0 +1,3 @@
+Parse a linked list from a string
+
+https://www.codewars.com/kata/582c5382f000e535100001a7/python
