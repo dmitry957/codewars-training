@@ -1,0 +1,3 @@
+Feynman's square question
+
+https://www.codewars.com/kata/551186edce486caa61000f5c/python
