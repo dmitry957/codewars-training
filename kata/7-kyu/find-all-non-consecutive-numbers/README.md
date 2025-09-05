@@ -1,0 +1,3 @@
+Find all non-consecutive numbers
+
+https://www.codewars.com/kata/58f8b35fda19c0c79400020f/python
