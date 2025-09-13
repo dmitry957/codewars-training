@@ -1,0 +1,3 @@
+Vowel Shifting
+
+https://www.codewars.com/kata/577e277c9fb2a5511c00001d/python
