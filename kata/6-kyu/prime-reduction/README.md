@@ -1,0 +1,3 @@
+Prime reduction
+
+https://www.codewars.com/kata/59aa6567485a4d03ff0000ca/python
