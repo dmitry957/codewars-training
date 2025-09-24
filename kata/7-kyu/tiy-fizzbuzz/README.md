@@ -1,0 +1,3 @@
+TIY-FizzBuzz
+
+https://www.codewars.com/kata/5889177bf148eddd150002cc/python

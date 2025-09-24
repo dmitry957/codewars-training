@@ -1,0 +1,3 @@
+Bingo!
+
+https://www.codewars.com/kata/5af304892c5061951e0000ce/python
