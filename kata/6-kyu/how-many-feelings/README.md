@@ -1,0 +1,3 @@
+How many feelings?
+
+https://www.codewars.com/kata/5a33ec23ee1aaebecf000130/python
