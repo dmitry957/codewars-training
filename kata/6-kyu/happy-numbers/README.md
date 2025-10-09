@@ -1,0 +1,3 @@
+Happy numbers
+
+https://www.codewars.com/kata/5464cbfb1e0c08e9b3000b3e/python
