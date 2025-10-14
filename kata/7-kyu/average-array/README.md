@@ -1,0 +1,3 @@
+Average Array
+
+https://www.codewars.com/kata/596f6385e7cd727fff0000d6/python
